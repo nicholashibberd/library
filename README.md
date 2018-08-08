@@ -1,6 +1,4 @@
-# Library
-
-## Cryptography
+# Cryptography
 
 - Asymmetric Cryptography
 - Cipher
